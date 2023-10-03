@@ -1,5 +1,5 @@
-const weightInKilograms = 65;
-const heightInMeters = 1.78;
+const weightInKilograms = 68;
+const heightInMeters = 1.7;
 
 function calculateBMI(weight, height) {
     return weight / (height * height);
